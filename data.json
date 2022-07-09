@@ -1,0 +1,3 @@
+{
+"repotypes":["alpine","cargo","composer","bower","chef","cocoapods","conan","cran","debian","docker","helm","gems","gitlfs","go","gradle","ivy","maven","npm","nuget","opkg","pub","puppet","pypi","rpm","sbt","swift","terraform","vagrant","yum","generic"]
+}

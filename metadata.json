@@ -1,0 +1,1 @@
+{ "script_version": "v0.0.1", "git_repo": "configuration-import", "git_domain":"github.com","git_user":"lorenyeung","binary_prefix": "import", "release_branch": "master" }
